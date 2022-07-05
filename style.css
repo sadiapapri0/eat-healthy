@@ -1,0 +1,116 @@
+.orange-color {
+    color: orange;
+}
+
+.first-part {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.second-part {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    padding-left: 100px;
+}
+
+.fourth-part {
+    margin: 15%;
+    box-shadow: 10px 10px 10px 10px rgb(247, 239, 239);
+    border-radius: 10px;
+    width: 70%;
+    height: auto;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.fourth-font {
+    padding-left: 5%;
+    padding-top: 10%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800px;
+    font-size: 40px;
+}
+
+
+.gray-color {
+    color: gray;
+}
+
+.center {
+    text-align: center;
+}
+
+.my-recipies-header {
+    display: flex;
+}
+
+.my-recipies {
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 10px 10px 10px rgb(222, 210, 210);
+    border-radius: 50px;
+
+}
+
+.food-photo {
+    width: 100%;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 30px;
+}
+
+.female {
+    width: 60%
+}
+
+.font {
+    padding-left: 5%;
+    padding-top: 10%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800px;
+    font-size: 40px;
+    color: rgb(104, 99, 99);
+}
+
+.font-padding {
+    padding-left: 10%;
+    color: gray;
+}
+
+.food-order {
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    margin-top: 10%;
+    margin-left: 5%;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 700;
+}
+
+.white-color {
+    color: white;
+}
+
+.background-black {
+    background-color: black;
+    height: 250px;
+    padding-top: 20px;
+}
+
+.top-bottom {
+    text-align: center;
+}
